@@ -1,0 +1,7 @@
+{
+    "utterance": "what is the ultimate song",
+    "intent_type": "DemoIntent",
+    "intent": {
+        "DemoCommand": "Demo Command"
+    }
+}
